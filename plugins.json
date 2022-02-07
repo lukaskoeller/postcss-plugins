@@ -5265,5 +5265,15 @@
       "other"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-flexbox-gap",
+    "description": "A polyfill for single line flexbox gap",
+    "author": "lukaskoeller",
+    "url": "https://github.com/lukaskoeller/postcss-flexbox-gap",
+    "tags": [
+      "fallbacks"
+    ],
+    "stars": 0
   }
 ]
